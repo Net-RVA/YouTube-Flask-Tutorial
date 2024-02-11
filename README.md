@@ -16,9 +16,9 @@ In this tutorial, you'll gain hands-on experience with:
 ## Previous Tutorials in the Series
 
 Make sure to catch up on the series with these essential videos:
-- [Getting Started with Flask](https://youtu.be/IopnRGKi_Tg?feature=shared)
-- [Routing and Templates in Flask](https://youtu.be/nKFOn08zd2c?feature=shared)
-- [Working with Flask Forms and User Input](https://youtu.be/P3XnGLDzQO0?feature=shared)
+- [Part 1 Getting Started with Flask](https://youtu.be/IopnRGKi_Tg?feature=shared)
+- [Part 2 Routing and Templates in Flask](https://youtu.be/nKFOn08zd2c?feature=shared)
+- [Part 3 Working with Flask Forms and User Input](https://youtu.be/P3XnGLDzQO0?feature=shared)
 
 ## Additional Resources
 
