@@ -25,10 +25,6 @@ Make sure to catch up on the series with these essential videos:
 For detailed instructions and further insights:
 - Check out our blog post on this topic: [Flask Tutorial Part 4 - Conditional Statements for Web Development](https://blog.netrva.com/flask-tutorial-part-4-conditional-statements-for-web-development)
 
-## Acknowledgments
-
-A special thanks to Johan Godinho for the inspiration behind this tutorial series. Be sure to check out his [video](https://www.youtube.com/watch?v=p_JD-HnkmuY&list=PLIbZb2AYMPrXcC8BsXy_dyIwHBVASsXtM&index=4) for more fantastic content.
-
 ## Let's Connect!
 
 If you found this tutorial helpful, please like, subscribe to our channel, and hit the notification bell for more content like this. Your support helps us create more tutorials to help you level up your web development skills.
