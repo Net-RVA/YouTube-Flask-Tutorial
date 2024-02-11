@@ -1,6 +1,6 @@
 # Dynamic Web Pages with Flask: Using Conditional Statements
 
-Welcome to the GitHub repository for our latest Flask tutorial 🚀! This tutorial, inspired by the insightful content from Johan Godinho, serves as the 4th installment in our Python Flask Tutorial series. It's designed to guide beginners and seasoned developers alike through the process of using conditional statements to dynamically render HTML pages.
+Welcome to the GitHub repository for our latest Flask tutorial 🚀! It's designed to guide beginners and seasoned developers alike through the process of using conditional statements to dynamically render HTML pages.
 
 ![Watch the Tutorial](http://img.youtube.com/vi/6zwmsUAs3ec/0.jpg)
 [Watch the video here](https://www.youtube.com/watch?v=6zwmsUAs3ec&t=1s)
